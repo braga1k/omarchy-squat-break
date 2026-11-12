@@ -1,0 +1,30 @@
+{
+  "title": "Pausa para squats",
+  "loading": "A carregar…",
+  "error": "Não foi possível guardar os dados. Verifica o ficheiro de registos.",
+  "paused": "Lembretes em pausa",
+  "due": "Está na hora de te levantares e fazeres squats",
+  "next": "Próxima pausa daqui a %1 min",
+  "tooltip": "Hoje: %1 · Acumulado: %2\n%3",
+  "today": "Hoje",
+  "total": "Total acumulado",
+  "done": "Squats realizados",
+  "record": {
+    "one": "Registar %1 squat",
+    "other": "Registar %1 squats"
+  },
+  "undo": "Anular último registo",
+  "snooze": "Adiar 5 min",
+  "interval": "Intervalo (min)",
+  "suggested": "Squats por pausa",
+  "save": "Guardar definições",
+  "resume": "Retomar",
+  "pause": "Pausar",
+  "test": "Testar alerta",
+  "hint": "Só contam os squats que confirmas. Os dados ficam guardados neste computador. O dia muda segundo a data local.",
+  "alert.title": "Hora dos squats",
+  "alert.body": {
+    "one": "Levanta-te para fazer %1 squat. Clica aqui para registar as repetições realizadas.",
+    "other": "Levanta-te para fazer %1 squats. Clica aqui para registar as repetições realizadas."
+  }
+}
