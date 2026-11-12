@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "b1k.squats",
   "name": "Squat Break",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Vitor Ferreira",
   "description": "Squat reminders, daily totals and an all-time counter stored locally",
   "kinds": [
@@ -16,8 +16,7 @@
   "barWidget": {
     "displayName": "Squat Break",
     "category": "Health",
-    "allowMultiple": false,
-    "defaultSection": "centerEnd"
+    "allowMultiple": false
   },
   "license": "MIT",
   "homepage": "https://github.com/braga1k/omarchy-squat-break"
